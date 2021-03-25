@@ -64,7 +64,7 @@ python-pptx==0.6.18
 python3-openid==3.1.0
 pytz==2019.3
 pytzdata==2019.3
-PyYAML==5.3.1
+PyYAML==5.4
 requests==2.23.0
 setproctitle==1.1.10
 six==1.14.0
